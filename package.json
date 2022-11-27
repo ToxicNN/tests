@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ToxicNN/tests.git"
+  },
+  "author": "ToxicNN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ToxicNN/tests/issues"
+  },
+  "homepage": "https://github.com/ToxicNN/tests#readme"
+}
