@@ -5,3 +5,4 @@ assert.equal(capitalize('hello'), 'Hello');
 assert.equal(capitalize(''), '');
 
 console.log('Все тесты пройдены!');
+console.log('Все тесты пройдены!');
